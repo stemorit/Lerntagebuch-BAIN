@@ -2,6 +2,6 @@
 title: Lerntagebuch
 ---
 
-## Willkommen zu meinem Lerntagebuch
+## Lerntagebuch als Leistungsnachweis
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+Hallo, hier wird jede Unterrichtseinheit vom Modul Bibliotheks- und Archivinformatik reflektiert. Viel Spass bei lesen und bewerten.
