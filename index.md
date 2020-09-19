@@ -1,6 +1,3 @@
----
-title: Lerntagebuch
----
 
 ## Lerntagebuch als Leistungsnachweis
 
